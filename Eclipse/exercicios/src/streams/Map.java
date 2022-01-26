@@ -15,12 +15,12 @@ public class Map {
 		marcas.stream().map(m -> m.toUpperCase()).forEach(print);
 		
 		// UnaryOperator<String> maiuscula = n -> n.toUpperCase();
-		// UnaryOperator<String> grito = n -> n + " !!!";
+		// UnaryOperator<Stgit ring> grito = n -> n + " !!!";
 		// >>>> Criei na Classe "Utilitarios"
 		
 		UnaryOperator<String> primeiraLetra = n -> n.charAt(0) + "";
 		
-		System.out.println("\n\nUsando composição");
+		System.out.println("\n\nUsando composiï¿½ï¿½o");
 		marcas.stream().map(Utilitarios.maiuscula).forEach(print);
 		System.out.println();
 		marcas.stream().map(primeiraLetra).forEach(print);
