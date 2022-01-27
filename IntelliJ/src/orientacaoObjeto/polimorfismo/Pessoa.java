@@ -9,8 +9,8 @@ public class Pessoa {
 	}
 	
 	public void comer(Comida comida) {
-		this.peso += comida.getPeso();;
-	}
+		this.peso += comida.getPeso();
+    }
 
 	public double getPeso() {
 		return peso;

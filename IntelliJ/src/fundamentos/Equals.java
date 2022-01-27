@@ -8,7 +8,7 @@ public class Equals {
 		
 		System.out.println("2" == "2");
 		
-		String s1 = new String("2");
+		String s1 = "2";
 		System.out.println("2" == s1);
 		System.out.println("2".equals(s1));
 		

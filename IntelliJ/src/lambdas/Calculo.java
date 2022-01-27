@@ -1,15 +1,15 @@
 package lambdas;
 
-@FunctionalInterface // Isso mostra que a Interface é funcional, ou seja, pode ter somente um método.
+@FunctionalInterface // Isso mostra que a Interface ï¿½ funcional, ou seja, pode ter somente um mï¿½todo.
 public interface Calculo {
 
-	public abstract double executar(double a, double b);
+	double executar(double a, double b);
 	
 	default String metodoDefault() {
-		return "Método Default";
+		return "Mï¿½todo Default";
 	}
 	
 	static String metodoEstatico() {
-		return "Médoto Estático";
+		return "Mï¿½doto Estï¿½tico";
 	}
 }

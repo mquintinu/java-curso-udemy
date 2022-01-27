@@ -3,7 +3,7 @@ package excecao.personalizadaB;
 @SuppressWarnings("serial")
 public class NumeroForaIntervaloException extends Exception{
 
-    private String nomeAtributo;
+    private final String nomeAtributo;
 
     public NumeroForaIntervaloException(String nomeAtributo){
         this.nomeAtributo = nomeAtributo;

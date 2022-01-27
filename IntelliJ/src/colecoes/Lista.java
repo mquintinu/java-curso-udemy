@@ -20,11 +20,11 @@ public class Lista {
 		lista.remove(1);
 		System.out.println(lista.remove(new Usuario("Trinity")));
 		
-		System.out.println("Contêm? " +lista.contains(new Usuario ("Scarlett")));
+		System.out.println("Contï¿½m? " +lista.contains(new Usuario ("Scarlett")));
 		
 		for (Usuario usuario : lista) {
 			System.out.println(usuario.nome);
-			System.out.println(usuario.toString());
+			System.out.println(usuario);
 		}
 	}
 }

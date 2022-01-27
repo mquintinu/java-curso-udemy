@@ -3,7 +3,7 @@ package excecao.personalizadaB;
 @SuppressWarnings("serial")
 public class StringVaziaException extends Exception{
 
-    private String nomeAtributo;
+    private final String nomeAtributo;
 
     public StringVaziaException(String nomeAtributo){
         this.nomeAtributo = nomeAtributo;

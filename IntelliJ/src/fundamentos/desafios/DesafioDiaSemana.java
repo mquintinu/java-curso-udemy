@@ -14,23 +14,23 @@ public class DesafioDiaSemana {
 		if (dia.equalsIgnoreCase("segunda")) {
 			System.out.println(1);
 		}
-		else if (dia.equalsIgnoreCase("terca") || dia.equalsIgnoreCase("terça")) {
+		else if (dia.equalsIgnoreCase("terca") || dia.equalsIgnoreCase("terï¿½a")) {
 			System.out.println(2);
 		}
-		else if("quarta".equals(dia.toLowerCase())) {
+		else if("quarta".equalsIgnoreCase(dia)) {
 			System.out.println(4);
 		}
 		else if(dia.equalsIgnoreCase("quinta")) {
 			System.out.println(5);
 		}		
-		else if(dia.toLowerCase().equals("sexta")) {
+		else if(dia.equalsIgnoreCase("sexta")) {
 			System.out.println(6);
 		}		
-		else if(dia.equalsIgnoreCase("sabado") || dia.equalsIgnoreCase("sábado")) {
+		else if(dia.equalsIgnoreCase("sabado") || dia.equalsIgnoreCase("sï¿½bado")) {
 			System.out.println(7);
 		}		
 		else
-			System.out.println("Dia inválido");
+			System.out.println("Dia invï¿½lido");
 
 		entrada.close();
 	}

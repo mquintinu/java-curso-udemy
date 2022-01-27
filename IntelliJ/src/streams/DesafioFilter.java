@@ -26,6 +26,6 @@ public class DesafioFilter {
 		.filter(nomeGrande)
 		.filter(idadeMenor35)	
 		.map(mostraMsg)
-		.forEach(System.out::println);;
-	}
+		.forEach(System.out::println);
+    }
 }

@@ -3,7 +3,7 @@ package orientacaoObjeto.encapsulamento.casaA;
 public class Ana {
 
 	@SuppressWarnings("unused")
-	private String segredo = "";
+	private final String segredo = "";
 	
 	String facoDentroDeCasa = "..."; // default ou pacote
 	protected String formaDeFalar;
