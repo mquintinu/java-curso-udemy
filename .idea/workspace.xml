@@ -2,577 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e28afafd-a47a-4401-88fd-b47ce7a85ab4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/arrays/DesafioNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/DesafioNotas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/arrays/exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/exercicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/DataTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/DataTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Equals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/PrimeiroTrauma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/PrimeiroTrauma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/desafio/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/desafio/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/desafio/Jantar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/desafio/Jantar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/classe/desafio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/desafio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/ConjuntoBaguncado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/ConjuntoComportado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/ConjuntoComportado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Fila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Hash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/Lista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/Mapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Mapa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/Pilha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Pilha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/colecoes/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/Basico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/Basico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/Causa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/Causa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/ChecadaVsNChecada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/ChecadaVsNChecada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/Finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/Finally.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaA/NumeroForaIntervaloException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaA/StringVaziaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaA/TesteValidacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/TesteValidacoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaA/Validar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/Validar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaB/NumeroForaIntervaloException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaB/StringVaziaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaB/TesteValidacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/TesteValidacoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/excecao/personalizadaB/Validar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/Validar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/AreaCircunferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/ConversaoNumeroString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/ConversaoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/Equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/Import.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Import.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/Inferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Inferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/NotacaoPonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/NotacaoPonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/OperadorTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/OperadorTernario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/PrimeiroPrograma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Temperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/TipoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/TipoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/Wrappers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/desafios/DesafioAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/desafios/DesafioAritmeticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/desafios/DesafioConversao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/desafios/DesafioConversao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/desafios/DesafioDiaSemana.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/fundamentos/desafios/DesafioFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/desafios/DesafioFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Calculo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/CalculoTeste1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/CalculoTeste3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/CalculoTeste3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Consumidor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Desafio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Foreach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Fornecedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Fornecedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Funcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Funcao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Multiplicar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Multiplicar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/OperadorBinario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/OperadorBinario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/OperadorUnario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/OperadorUnario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Predicado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Predicado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/PredicadoComposicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/PredicadoComposicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Somar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Somar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/lambdas/Threads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Threads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/musisystem/Funcao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/musisystem/GeneroMusical.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/musisystem/Instrumento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/musisystem/Instrumento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/musisystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/musisystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/musisystem/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/musisystem/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/musisystem/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/musisystem/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/musisystem/Repertorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/musisystem/Repertorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/Abstracao/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/Abstracao/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/Abstracao/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/Abstracao/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/Abstracao/Mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/Abstracao/Mamifero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/Abstracao/TesteAbstrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/Abstracao/TesteAbstrato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/CarroTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/Compra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/CompraTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/CompraTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/CursoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/CursoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/desafio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/desafio/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/desafio/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/desafio/Compra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/desafio/DesafioMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/desafio/DesafioMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/desafio/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/desafio/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/composicao/desafio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/composicao/desafio/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/encapsulamento/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/encapsulamento/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/encapsulamento/PessoaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/encapsulamento/PessoaTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/encapsulamento/casaA/Ana.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/encapsulamento/casaA/Paulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/encapsulamento/casaA/Paulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/encapsulamento/casaB/Julia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/encapsulamento/casaB/Julia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/encapsulamento/casaB/Pedro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/encapsulamento/casaB/Pedro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/Direcao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/Heroi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/Jogador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/Monstro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/Monstro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/desafio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/desafio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/desafio/Civic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/desafio/Civic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/desafio/Esportivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/desafio/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/desafio/Ferrari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/desafio/Luxo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/teste/CarroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/teste/CarroMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/heranca/teste/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/teste/Jogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/polimorfismo/Arroz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/polimorfismo/Arroz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/polimorfismo/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/polimorfismo/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/polimorfismo/Feijao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/polimorfismo/Feijao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/polimorfismo/Jantar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/polimorfismo/Jantar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/polimorfismo/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/orientacaoObjeto/polimorfismo/Sorvete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/polimorfismo/Sorvete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/CriandoStreams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/DesafioFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/DesafioMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/DesafioMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/ImprimindoObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/ImprimindoObjetos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Match.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/MediaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/MediaTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/MinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Outros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Outros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Reduce1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Reduce1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Reduce2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Reduce2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Reduce3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Reduce3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/exercicios/src/streams/Utilitarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Utilitarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/arrays/DesafioNotas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/arrays/exercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/DataTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/Equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/PrimeiroTrauma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/ProdutoTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/desafio/Comida.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/desafio/Jantar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/classe/desafio/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/ConjuntoBaguncado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/ConjuntoComportado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/Fila.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/Hash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/Lista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/Mapa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/Pilha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/colecoes/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/Basico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/Causa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/ChecadaVsNChecada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/Finally.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaA/NumeroForaIntervaloException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaA/StringVaziaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaA/TesteValidacoes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaA/Validar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaB/NumeroForaIntervaloException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaB/StringVaziaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaB/TesteValidacoes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/excecao/personalizadaB/Validar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/AreaCircunferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/Console.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/ConversaoNumeroString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/ConversaoString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/Equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/Import.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/Inferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/NotacaoPonto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/OperadorTernario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/PrimeiroPrograma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/Temperatura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/TipoString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/TiposPrimitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/Wrappers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/desafios/DesafioAritmeticos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/desafios/DesafioConversao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/desafios/DesafioDiaSemana.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/fundamentos/desafios/DesafioFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Calculo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/CalculoTeste1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/CalculoTeste2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/CalculoTeste3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Consumidor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Desafio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Foreach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Fornecedor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Funcao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Multiplicar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/OperadorBinario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/OperadorUnario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Predicado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/PredicadoComposicao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Somar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/lambdas/Threads.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/musisystem/Funcao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/musisystem/GeneroMusical.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/musisystem/Instrumento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/musisystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/musisystem/Musica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/musisystem/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/musisystem/Repertorio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/Abstracao/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/Abstracao/Cachorro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/Abstracao/Mamifero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/Abstracao/TesteAbstrato.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/CarroTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/Compra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/CompraTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/Curso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/CursoTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/Motor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/desafio/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/desafio/Compra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/desafio/DesafioMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/desafio/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/composicao/desafio/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/encapsulamento/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/encapsulamento/PessoaTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/encapsulamento/casaA/Ana.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/encapsulamento/casaA/Paulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/encapsulamento/casaB/Julia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/encapsulamento/casaB/Pedro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/Direcao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/Heroi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/Jogador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/Monstro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/desafio/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/desafio/Civic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/desafio/Esportivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/desafio/Ferrari.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/desafio/Luxo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/teste/CarroMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/heranca/teste/Jogo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/polimorfismo/Arroz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/polimorfismo/Comida.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/polimorfismo/Feijao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/polimorfismo/Jantar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/polimorfismo/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/orientacaoObjeto/polimorfismo/Sorvete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/CriandoStreams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/DesafioFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/DesafioMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Filter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/ImprimindoObjetos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Match.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Media.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/MediaTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/MinMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Outros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Reduce1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Reduce2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Reduce3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eclipse/src/streams/Utilitarios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/IntelliJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/META-INF/IntelliJ.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/arrays/DesafioNotas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/arrays/exercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/Equals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/PrimeiroTrauma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/Usuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/desafio/Comida.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/desafio/Jantar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/classe/desafio/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/ConjuntoBaguncado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/ConjuntoComportado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/Fila.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/Hash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/Lista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/Mapa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/Pilha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/colecoes/Usuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/Basico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/Causa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/ChecadaVsNChecada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/Finally.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaA/NumeroForaIntervaloException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaA/StringVaziaException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaA/TesteValidacoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaA/Validar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaB/NumeroForaIntervaloException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaB/StringVaziaException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaB/TesteValidacoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/excecao/personalizadaB/Validar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/AreaCircunferencia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/Console.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/ConversaoNumeroString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/ConversaoString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/Equals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/Import.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/NotacaoPonto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/OperadorTernario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/PrimeiroPrograma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/Temperatura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/TiposPrimitivos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/Wrappers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/desafios/DesafioAritmeticos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/desafios/DesafioConversao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/desafios/DesafioDiaSemana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/fundamentos/desafios/DesafioFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Calculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/CalculoTeste1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/CalculoTeste2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/CalculoTeste3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Consumidor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Desafio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Foreach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Fornecedor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Funcao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Multiplicar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/OperadorBinario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/OperadorUnario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Predicado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/PredicadoComposicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Somar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Threads$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/lambdas/Threads.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/musisystem/Funcao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/musisystem/GeneroMusical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/musisystem/Instrumento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/musisystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/musisystem/Musica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/musisystem/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/musisystem/Repertorio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/Abstracao/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/Abstracao/Cachorro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/Abstracao/Mamifero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/Abstracao/TesteAbstrato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/CarroTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/Compra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/CompraTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/Curso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/CursoTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/composicao/Motor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/encapsulamento/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/encapsulamento/PessoaTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/encapsulamento/casaA/Ana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/encapsulamento/casaA/Paulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/encapsulamento/casaB/Julia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/encapsulamento/casaB/Pedro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/Direcao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/Heroi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/Jogador$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/Jogador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/Monstro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/desafio/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/desafio/Civic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/desafio/Esportivo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/desafio/Ferrari.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/desafio/Luxo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/teste/CarroMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/heranca/teste/Jogo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/polimorfismo/Arroz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/polimorfismo/Comida.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/polimorfismo/Feijao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/polimorfismo/Jantar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/polimorfismo/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/orientacaoObjeto/polimorfismo/Sorvete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/CriandoStreams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/DesafioFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/DesafioMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/ImprimindoObjetos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Match.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Media.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/MediaTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/MinMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Outros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Reduce1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Reduce2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Reduce3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/streams/Utilitarios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/CalculadoraTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Desempenho$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Desempenho$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Desempenho$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Desempenho$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Desempenho$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Desempenho.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/ReajusteService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/out/production/IntelliJ/testes/ReajusteServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/arrays/DesafioNotas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/arrays/exercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/Equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/PrimeiroTrauma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/desafio/Comida.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/desafio/Jantar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/classe/desafio/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/ConjuntoBaguncado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/ConjuntoComportado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/Fila.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/Hash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/Mapa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/Pilha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/colecoes/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/Basico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/Causa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/ChecadaVsNChecada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/Finally.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaA/NumeroForaIntervaloException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/NumeroForaIntervaloException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaA/StringVaziaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaA/StringVaziaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaA/TesteValidacoes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaA/Validar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaB/NumeroForaIntervaloException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/NumeroForaIntervaloException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaB/StringVaziaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excecao/personalizadaB/StringVaziaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaB/TesteValidacoes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/excecao/personalizadaB/Validar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/AreaCircunferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/Console.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/ConversaoNumeroString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/ConversaoString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Equals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/Import.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/NotacaoPonto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/OperadorTernario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/PrimeiroPrograma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/Temperatura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/TiposPrimitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/Wrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Wrappers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/desafios/DesafioAritmeticos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/desafios/DesafioConversao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/desafios/DesafioDiaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/desafios/DesafioDiaSemana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/fundamentos/desafios/DesafioFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdas/Calculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/CalculoTeste1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/CalculoTeste2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/CalculoTeste3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Consumidor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Desafio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Foreach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Fornecedor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Funcao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Multiplicar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/OperadorBinario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/OperadorUnario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Predicado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/PredicadoComposicao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Somar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/lambdas/Threads.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/musisystem/Funcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/musisystem/Funcao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/musisystem/GeneroMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/musisystem/GeneroMusical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/musisystem/Instrumento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/musisystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/musisystem/Musica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/musisystem/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/musisystem/Repertorio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/Abstracao/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/Abstracao/Cachorro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/Abstracao/Mamifero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/Abstracao/TesteAbstrato.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/Aluno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/CarroTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/Compra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/CompraTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/Curso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/CursoTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/composicao/Motor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/encapsulamento/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/encapsulamento/PessoaTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/encapsulamento/casaA/Ana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/encapsulamento/casaA/Ana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/encapsulamento/casaA/Paulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/encapsulamento/casaB/Julia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/encapsulamento/casaB/Pedro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/Direcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/Direcao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/Heroi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/Jogador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/Monstro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/desafio/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/desafio/Civic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/desafio/Esportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/desafio/Esportivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/desafio/Ferrari.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/desafio/Luxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/heranca/desafio/Luxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/teste/CarroMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/heranca/teste/Jogo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/polimorfismo/Arroz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/polimorfismo/Comida.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/polimorfismo/Feijao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/polimorfismo/Jantar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/polimorfismo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orientacaoObjeto/polimorfismo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/orientacaoObjeto/polimorfismo/Sorvete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/CriandoStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/CriandoStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/DesafioFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/DesafioFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/DesafioMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Filter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/ImprimindoObjetos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Match.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Media.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/MediaTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/MinMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Outros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Reduce1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Reduce2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Reduce3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/streams/Utilitarios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/testes/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testes/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/testes/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testes/CalculadoraTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/testes/Desempenho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testes/Desempenho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/testes/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testes/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/testes/ReajusteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testes/ReajusteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ/src/testes/ReajusteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testes/ReajusteServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/arrays/DesafioNotas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/arrays/DesafioNotas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/arrays/exercicio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/arrays/exercicio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/classe/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/classe/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/classe/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/classe/ProdutoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/classe/desafio/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/classe/desafio/Jantar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/classe/desafio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/classe/desafio/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/colecoes/ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/colecoes/ConjuntoBaguncado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/colecoes/Fila.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/colecoes/Fila.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/colecoes/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/colecoes/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/colecoes/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/colecoes/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/excecao/Causa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/excecao/Causa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaA/NumeroForaIntervaloException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaA/NumeroForaIntervaloException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaA/StringVaziaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaA/StringVaziaException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaA/Validar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaA/Validar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaB/NumeroForaIntervaloException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaB/NumeroForaIntervaloException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaB/StringVaziaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaB/StringVaziaException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaB/Validar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/excecao/personalizadaB/Validar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/AreaCircunferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/AreaCircunferencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Console.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/ConversaoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/ConversaoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Import.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Import.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/NotacaoPonto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/NotacaoPonto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/OperadorTernario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/OperadorTernario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/PrimeiroPrograma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/PrimeiroPrograma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Temperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/Temperatura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/TipoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/TipoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/TiposPrimitivos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/desafios/DesafioAritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/desafios/DesafioAritmeticos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/desafios/DesafioConversao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/desafios/DesafioConversao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/fundamentos/desafios/DesafioDiaSemana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/fundamentos/desafios/DesafioDiaSemana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/lambdas/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/lambdas/Calculo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/lambdas/Consumidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/lambdas/Consumidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/lambdas/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/lambdas/Desafio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/lambdas/Foreach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/lambdas/Foreach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/lambdas/Funcao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/lambdas/Funcao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/lambdas/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/lambdas/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/musisystem/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/musisystem/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/musisystem/Musica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/musisystem/Musica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/Abstracao/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/Abstracao/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/CarroTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/CarroTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/CompraTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/CompraTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/CursoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/CursoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/desafio/DesafioMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/composicao/desafio/DesafioMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/heranca/teste/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/orientacaoObjeto/heranca/teste/Jogo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/streams/DesafioMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/streams/DesafioMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/streams/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/streams/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/streams/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/streams/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/streams/MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/streams/MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/streams/Outros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/streams/Outros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios/streams/Reduce3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicios/streams/Reduce3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24e4pAyQ6aR6X5VhzX1yLCN8dw7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -589,13 +90,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TipoString">
-    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.Console" />
+  <component name="RunManager" selected="Application.ComparableTeste">
+    <configuration name="CaixaIntTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.CaixaIntTeste" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -603,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.Import" />
+    <configuration name="CaixaNumeroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.CaixaNumeroTeste" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -616,12 +117,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.TipoString" />
+    <configuration name="ComparableTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.ComparableTeste" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentos.*" />
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaUtilTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.ListaUtilTeste" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParesTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.ParesTeste" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -631,9 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TipoString" />
-        <item itemvalue="Application.Import" />
-        <item itemvalue="Application.Console" />
+        <item itemvalue="Application.ComparableTeste" />
+        <item itemvalue="Application.ParesTeste" />
+        <item itemvalue="Application.ListaUtilTeste" />
+        <item itemvalue="Application.CaixaNumeroTeste" />
+        <item itemvalue="Application.CaixaIntTeste" />
       </list>
     </recent_temporary>
   </component>
