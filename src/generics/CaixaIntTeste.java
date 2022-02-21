@@ -1,9 +1,11 @@
 package generics;
 
 public class CaixaIntTeste {
-    public static void main(String[] args) {
+    @SuppressWarnings("unchecked")
+	public static void main(String[] args) {
 
-        CaixaInt caixaA = new CaixaInt();
+        @SuppressWarnings("rawtypes")
+		CaixaInt caixaA = new CaixaInt();
         caixaA.guardar(123);
 
         System.out.println(caixaA.abrir());
